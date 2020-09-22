@@ -10,3 +10,5 @@
 - Commit
 - Push
 - Branch 생성
+- Checkout
+- Merge
