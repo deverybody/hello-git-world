@@ -12,3 +12,6 @@
 - Branch 생성
 - Checkout
 - Merge
+ - Fast-forward
+- Fetch & Pull
+- rreesseett
