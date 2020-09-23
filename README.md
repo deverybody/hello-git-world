@@ -24,3 +24,4 @@
 
 - revision
 - rebase
+- cherry-pick
