@@ -22,6 +22,6 @@
 
 ## 추가 공부
 
-- revision
-- rebase
-- cherry-pick
+- Revision
+- Rebase
+- Cherry-pick
