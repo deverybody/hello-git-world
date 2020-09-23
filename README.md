@@ -14,4 +14,8 @@
 - Merge
  - Fast-forward
 - Fetch & Pull
-- rreesseett
+- reset
+ - soft
+ - mixed
+ - hard
+- revert
