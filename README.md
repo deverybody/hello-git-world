@@ -15,6 +15,3 @@
  - Fast-forward
 - Fetch & Pull
 - rreesseett
- - soft
- - mixed
- - hard
