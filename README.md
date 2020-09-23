@@ -12,10 +12,10 @@
 - Branch 생성
 - Checkout
 - Merge
- - Fast-forward
+    * Fast-forward
 - Fetch & Pull
 - reset
- - soft
- - mixed
- - hard
+    * soft
+    * mixed
+    * hard
 - revert
