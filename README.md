@@ -18,4 +18,3 @@
  - soft
  - mixed
  - hard
-- revert
