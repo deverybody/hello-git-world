@@ -19,3 +19,8 @@
  - mixed
  - hard
 - revert
+
+## 추가 공부
+
+- revision
+- rebase
